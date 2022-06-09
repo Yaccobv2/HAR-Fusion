@@ -1,3 +1,8 @@
 .idea
 dataset/
+dataset
 miband_data.txt
+venv/
+env/
+venv
+env
